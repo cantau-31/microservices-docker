@@ -77,13 +77,6 @@ Si vous modifiez ces ports, assurez-vous également de mettre à jour les réfé
 - Docker
 - Kubernetes
 
-## Installation
-
-1. Clonez ce dépôt :
-    ```bash
-    git clone https://github.com/Mossbaddi/Pojet_fil_rouge.git
-    ```
-
 2. Installez les dépendances pour chaque service :
     ```bash
     cd client && npm install
